@@ -1,6 +1,4 @@
 Amy Salley
-CS 344
-Homework 3
 
 To compile the program:
 
