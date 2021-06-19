@@ -1,8 +1,6 @@
 /*******************************************************************************
  * Amy Salley
- * CS 344
- * Homework 3
- * 1 May 2021
+ * 
  * Description: C shell, smallsh
  * This program provides a prompt for running commands, handles blank lines and 
  * comments (lines beginning with the # character), provids expansion for the
