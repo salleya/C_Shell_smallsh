@@ -3,7 +3,7 @@
  * 
  * Description: C shell, smallsh
  * This program provides a prompt for running commands, handles blank lines and 
- * comments (lines beginning with the # character), provids expansion for the
+ * comments (lines beginning with the # character), provides expansion for the
  * variable $$, executes exit, cd, and status commands via code built into the
  * shell, executes other commands by creating new processes using a function
  * from the exec family of functions, supports input and output redirection,
